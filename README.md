@@ -1,4 +1,2 @@
-### Clean Theme
-
-![Alt text](screen.png)
+### agrez theme
 
