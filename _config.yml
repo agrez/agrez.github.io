@@ -1,8 +1,8 @@
 # Site settings
-title: \@grez dot net
+title: agrez.net
 email: devel@agrez.net
 description: > # this means to ignore newlines until "baseurl:"
-  Nothing much to see here yet!
+  Powered by Coffee.....
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://agrez.net" # the base hostname & protocol for your site
 twitter_username: fedberry_remix
